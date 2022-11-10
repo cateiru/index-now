@@ -1,0 +1,7 @@
+## This file will be used for Microsoft Bing's IndexNow surveys.
+##
+## You can do it using VSCode's REST Client extension.
+## https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+POST https://www.bing.com/indexnow
+Content-Type: application/json
